@@ -1,6 +1,6 @@
 var sul = $("#slider-ul");
 var sli = $("#slider-ul li");
-var l=$("#bn-img").width();
+var l=$("#slider-ul").width();
 //初始化
 function init() {
     var str = '<li class="active"></li>';
